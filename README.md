@@ -8,4 +8,7 @@
  Banco de Dados SQlite
  Express
  
+ ### Iniciar Projeto
+ npm start
+ 
  ### Back-End - React 
